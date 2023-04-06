@@ -17,34 +17,21 @@
 - :red_circle:: Failed
 - :black_circle:: Not registered
 
-## C Picine
+## 42 cursus(outer)
 
-| Project    | Status                | 
-| ---------- | --------------------- |
-| BSQ        | :green_circle: (100%) |
-| C 00       | :green_circle: (85%)  |
-| C 01       | :green_circle: (100%) |
-| C 02       | :green_circle: (75%)  |
-| C 03       | :green_circle: (50%)  |
-| C 04       | :green_circle: (100%) |
-| C 05       | :green_circle: (100%) |
-| C 06       | :green_circle: (100%) |
-| C 07       | :green_circle: (100%) |
-| C 08       | :green_circle: (100%) |
-| C 09       | :green_circle: (100%) |
-| C 10       | :red_circle:   (65%)  |
-| C 11       | :green_circle: (80%)  |
-| C 12       | :black_circle:        |
-| C 13       | :black_circle:        |
-| Exam 00    | :green_circle: (100%) |
-| Exam 01    | :green_circle: (80%)  |
-| Exam 02    | :green_circle: (100%) |
-| Final Exam | :green_circle: (66%)  |
-| Rush 00    | :black_circle:        |
-| Rush 01    | :red_circle:   (0%)   |
-| Rush 02    | :red_circle:   (0%)   |
-| Shell 00   | :green_circle: (70%)  |
-| Shell 01   | :green_circle: (100%) |
+| Project            | Status                | 
+| ------------------ | --------------------- |
+| libasm             | :green_circle: (125%) |
+| ft_turing          | :green_circle: (125%) |
+| dr-quine           | :red_circle: (0%)     |
+| snow-crash         | :green_circle: (125%) |
+| rainfall           | :yellow_circle:       |
+| override           | :yellow_circle:       |
+| taskmaster         | :red_circle: (0%)     |
+| ft_linux           | :green_circle: (100%) |
+| little-penguin-1   | :green_circle: (100%) |
+| kfs-1              | :green_circle: (120%) |
+| kfs-2              | :green_circle: (118%) |
 
 ## 42 cursus(inner)
 
@@ -80,18 +67,31 @@
 | Exam Rank 06     | :green_circle: (100%) |
 | ft_transcendence | :green_circle: (100%) |
 
-## 42 cursus(outer)
+## C Picine
 
-| Project            | Status                | 
-| ------------------ | --------------------- |
-| libasm             | :green_circle: (125%) |
-| ft_turing          | :green_circle: (125%) |
-| dr-quine           | :red_circle: (0%)     |
-| snow-crash         | :green_circle: (125%) |
-| rainfall           | :yellow_circle:       |
-| override           | :yellow_circle:       |
-| taskmaster         | :red_circle: (0%)     |
-| ft_linux           | :green_circle: (100%) |
-| little-penguin-1   | :green_circle: (100%) |
-| kfs-1              | :green_circle: (120%) |
-| kfs-2              | :green_circle: (118%) |
+| Project    | Status                | 
+| ---------- | --------------------- |
+| Shell 00   | :green_circle: (70%)  |
+| Shell 01   | :green_circle: (100%) |
+| C 00       | :green_circle: (85%)  |
+| C 01       | :green_circle: (100%) |
+| C 02       | :green_circle: (75%)  |
+| C 03       | :green_circle: (50%)  |
+| C 04       | :green_circle: (100%) |
+| C 05       | :green_circle: (100%) |
+| C 06       | :green_circle: (100%) |
+| C 07       | :green_circle: (100%) |
+| C 08       | :green_circle: (100%) |
+| C 09       | :green_circle: (100%) |
+| C 10       | :red_circle:   (65%)  |
+| C 11       | :green_circle: (80%)  |
+| C 12       | :black_circle:        |
+| C 13       | :black_circle:        |
+| Rush 00    | :black_circle:        |
+| Rush 01    | :red_circle:   (0%)   |
+| Rush 02    | :red_circle:   (0%)   |
+| BSQ        | :green_circle: (100%) |
+| Exam 00    | :green_circle: (100%) |
+| Exam 01    | :green_circle: (80%)  |
+| Exam 02    | :green_circle: (100%) |
+| Final Exam | :green_circle: (66%)  |
