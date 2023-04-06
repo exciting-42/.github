@@ -27,7 +27,7 @@
 | [snow-crash](https://github.com/exciting-42/snow-crash) | :green_circle: (125%) |
 | [rainfall](https://github.com/exciting-42/rainfall) | :yellow_circle:       |
 | [override](https://github.com/exciting-42/override) | :yellow_circle:       |
-| [taskmaster](https://github.com/exciting-42/taskmaster) | :red_circle: (0%)     |
+| [taskmaster](https://github.com/exciting-supervisord/supervisor) | :red_circle: (0%)     |
 | ft_linux | :green_circle: (100%) |
 | [little-penguin-1](https://github.com/exciting-42/little-penguin-1) | :green_circle: (100%) |
 | [kfs-1](https://github.com/exciting-kfs/kfs) | :green_circle: (120%) |
