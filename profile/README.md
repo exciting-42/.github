@@ -29,7 +29,7 @@
 | [override](https://github.com/exciting-42/override) | :yellow_circle:       |
 | [taskmaster](https://github.com/exciting-supervisord/supervisor) | :red_circle: (0%)     |
 | ft_linux | :green_circle: (100%) |
-| [little-penguin-1](https://github.com/exciting-42/little-penguin-1) | :green_circle: (100%) |
+| [little-penguin](https://github.com/exciting-42/little-penguin) | :green_circle: (100%) |
 | [kfs-1](https://github.com/exciting-kfs/kfs) | :green_circle: (120%) |
 | [kfs-2](https://github.com/exciting-kfs/kfs) | :green_circle: (118%) |
 
