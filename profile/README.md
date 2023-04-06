@@ -8,8 +8,6 @@
 | [42 cursus(inner)](#42-cursusinner) | 2021-11/15 ~ 2022-08/26 |
 | [42 cursus(outer)](#42-cursusouter) | 2022-08/26 ~ now        |
 
----
-
 ## Note
 
 ### Symbols
@@ -18,8 +16,6 @@
 - :yellow_circle:: Waiting for evaluation
 - :red_circle:: Failed
 - :black_circle:: Not registered
-
----
 
 ## C Picine
 
@@ -49,8 +45,6 @@
 | Rush 02    | :red_circle:   (0%)   |
 | Shell 00   | :green_circle: (70%)  |
 | Shell 01   | :green_circle: (100%) |
-
----
 
 ## 42 cursus(inner)
 
@@ -85,8 +79,6 @@
 | ft_irc           | :green_circle: (125%) |
 | Exam Rank 06     | :green_circle: (100%) |
 | ft_transcendence | :green_circle: (100%) |
-
----
 
 ## 42 cursus(outer)
 
