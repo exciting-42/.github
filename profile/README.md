@@ -22,8 +22,8 @@
 | Project            | Status                | 
 | ------------------ | --------------------- |
 | [libasm](https://github.com/exciting-42/libasm) | :green_circle: (125%) |
-| [ft_turing](https://github.com/exciting-42/ft_turing) | :green_circle: (125%) |
-| [dr-quine](https://github.com/exciting-42/dr-quine) | :red_circle: (0%)     |
+| [ft_turing](https://github.com/42cursus-youkim/turing) | :green_circle: (125%) |
+| [dr-quine](https://github.com/exciting-42/dr_quine) | :red_circle: (0%)     |
 | [snow-crash](https://github.com/exciting-42/snow-crash) | :green_circle: (125%) |
 | [rainfall](https://github.com/exciting-42/rainfall) | :yellow_circle:       |
 | [override](https://github.com/exciting-42/override) | :yellow_circle:       |
