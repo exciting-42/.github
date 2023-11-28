@@ -5,19 +5,19 @@
 | Course                              | Duration                |
 | ----------------------------------- | ----------------------- |
 | [C Pisine](#c-picine)               | 2021-09/06 ~ 2021-10/01 |
-| [42 cursus(inner)](#42-cursusinner) | 2021-11/15 ~ 2022-08/26 |
-| [42 cursus(outer)](#42-cursusouter) | 2022-08/26 ~ now        |
+| [42 cursus(common core)](#42-cursusinner) | 2021-11/15 ~ 2022-08/26 |
+| [42 cursus(outer circle)](#42-cursusouter) | 2022-08/26 ~ now        |
 
 ## Note
 
 ### Symbols
 
-- :green_circle:: Succeeded
+- :green_circle:: Passed
 - :yellow_circle:: Waiting for evaluation
 - :red_circle:: Failed
 - :black_circle:: Not registered
 
-## 42 cursus(outer)
+## 42 cursus(outer circle)
 
 | Project            | Status                | 
 | ------------------ | --------------------- |
@@ -25,15 +25,23 @@
 | [ft_turing](https://github.com/42cursus-youkim/turing) | :green_circle: (125%) |
 | [dr-quine](https://github.com/exciting-42/dr_quine) | :red_circle: (0%)     |
 | [snow-crash](https://github.com/exciting-42/snow-crash) | :green_circle: (125%) |
-| [rainfall](https://github.com/exciting-42/rainfall) | :yellow_circle:       |
-| [override](https://github.com/exciting-42/override) | :yellow_circle:       |
+| [rainfall](https://github.com/42-sec/rainfall) | :green_circle: (125%) |
+| [override](https://github.com/42-sec/override) | :green_circle: (125%) |
 | [taskmaster](https://github.com/exciting-supervisord/supervisor) | :red_circle: (0%)     |
 | ft_linux | :green_circle: (100%) |
 | [little-penguin](https://github.com/exciting-42/little-penguin) | :green_circle: (100%) |
 | [kfs-1](https://github.com/exciting-kfs/kfs) | :green_circle: (120%) |
 | [kfs-2](https://github.com/exciting-kfs/kfs) | :green_circle: (118%) |
+| [kfs-3](https://github.com/exciting-kfs/kfs) | :green_circle: (100%) |
+| [kfs-4](https://github.com/exciting-kfs/kfs) | :green_circle: (125%) |
+| [kfs-5](https://github.com/exciting-kfs/kfs) | :green_circle: (111%) |
+| [kfs-6](https://github.com/exciting-kfs/kfs) | :green_circle: (112%) |
+| [kfs-7](https://github.com/exciting-kfs/kfs) | :green_circle: (108%) |
+| [kfs-8](https://github.com/exciting-kfs/kfs) | :green_circle: (112%) |
+| [kfs-9](https://github.com/exciting-kfs/kfs) | :green_circle: (108%) |
+| [kfs-x](https://github.com/exciting-kfs/kfs) | :green_circle: (112%) |
 
-## 42 cursus(inner)
+## 42 cursus(common core)
 
 | Project          | Status                | 
 | ---------------- | --------------------- |
