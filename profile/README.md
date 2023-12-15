@@ -23,11 +23,11 @@
 | ------------------ | --------------------- |
 | [libasm](https://github.com/exciting-42/libasm) | :green_circle: (125%) |
 | [ft_turing](https://github.com/42cursus-youkim/turing) | :green_circle: (125%) |
-| [dr-quine](https://github.com/exciting-42/dr_quine) | :red_circle: (0%)     |
+| [dr-quine](https://github.com/exciting-42/dr_quine) | :green_circle: (125%)     |
 | [snow-crash](https://github.com/exciting-42/snow-crash) | :green_circle: (125%) |
 | [rainfall](https://github.com/42-sec/rainfall) | :green_circle: (125%) |
 | [override](https://github.com/42-sec/override) | :green_circle: (125%) |
-| [taskmaster](https://github.com/exciting-supervisord/supervisor) | :red_circle: (0%)     |
+| [taskmaster](https://github.com/exciting-supervisord/supervisor) | :green_circle: (110%)     |
 | ft_linux | :green_circle: (100%) |
 | [little-penguin](https://github.com/exciting-42/little-penguin) | :green_circle: (100%) |
 | [kfs-1](https://github.com/exciting-kfs/kfs) | :green_circle: (120%) |
